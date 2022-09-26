@@ -1,0 +1,119 @@
+body {
+  margin-top:0px;
+  margin-right: 0px;
+  margin-left: 0px;
+
+}
+.top{
+  border-top: 0px;
+  border-bottom: 0px;
+  text-align: center;
+  margin-bottom: 0px;
+  border-right: 0px;
+  border-lest: 0px;
+  padding-top:50px;
+  padding-bottom:50px;
+  font-size: 30px;
+  background-color: #EBC7E8;}
+
+}
+
+
+hr {
+  width: 0;
+  boder-color: #EBC7E8;
+  border-style: none;
+}
+h1 {
+  color: white;
+  font-size: 100px;
+}
+h3 {
+  color: #6F38C5;
+}
+.head {
+  background-image: url("galaxy-bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width; 200px;
+  height: 200px;
+  margin-top: 0px;
+  margin-right: 0px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'Sacramento', cursive;
+  font-size: 1000%;
+}
+.education{
+  border-width: 10px;
+  background-color : #BFACE0;
+  height: 700px;
+  margin-top: 0px;
+  margin-right: 0px;
+  text-align: : center;
+}
+.comp-img{
+  width: 35%;
+  float: left;
+}
+.tech{
+  padding: 100px;
+  padding-left: 500px;
+  font-size: 30px;
+
+}
+.contact{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 25%;
+  background-color: #5C2E7E;
+}
+.email{
+  padding: 30px;
+  width: 20%;
+  float: right;
+}
+.em{
+  font-size: 30px;
+  text-align: center;
+  padding: 200px;
+}
+.last{
+  background-image: url("gal2.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 40px;
+
+}
+.bye{
+  font-family: 'Sacramento', cursive;
+  font-size: 1000%;
+}
+.project{
+  margin-top: 0px;
+  background-color: #A084CA;
+  padding-top: 85px;
+  padding-bottom: 100px;
+  height: 1000px;
+  color: white;
+}
+.pro{
+  margin-top:0px;
+  margin-left:0px;
+  font-size: 50px;
+  font-family: 'Sacramento', cursive;
+  font-size: 400%;
+
+}
+.maze{
+  width: 50%;
+  float: left;
+
+}
+.snakegame{
+  width: 50%;
+  float: right;
+
+}
